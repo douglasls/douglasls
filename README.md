@@ -23,6 +23,6 @@ Estou motivado para permanecer na vanguarda da tecnologia e aplicar os últimos 
 
 ## Principais Trabalhos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=CarPlatooning&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=ehw-feedback&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=CircuitoGeneticoSerial&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=CarPlatooning&theme=tokyonight)](https://github.com/douglasls/CarPlatooning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=ehw-feedback&theme=tokyonight)](https://github.com/douglasls/ehw-feedback)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasls&repo=CircuitoGeneticoSerial&theme=tokyonight)](https://github.com/Gacaar/CircuitoGeneticoSerial)
